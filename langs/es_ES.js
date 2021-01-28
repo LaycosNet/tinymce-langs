@@ -85,7 +85,7 @@ tinymce.addI18n('es_ES',{
 "B": "B",
 "Left to right": "Izquierda a derecha",
 "Right to left": "Derecha a izquierda",
-"Emoticons...": "Emoticones...",
+"Emoticons...": "Emoticonos...",
 "Metadata and Document Properties": "Metadatos y propiedades del documento",
 "Title": "T\u00edtulo",
 "Keywords": "Palabras clave",
