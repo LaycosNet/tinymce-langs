@@ -366,5 +366,8 @@ tinymce.addI18n('es_ES',{
 "alignment": "alineaci\u00f3n",
 "indentation": "sangr\u00eda",
 "permanent pen": "bol\u00edgrafo permanente",
-"comments": "comentarios"
+"comments": "comentarios",
+"Words": "Palabras",
+"Document": "Documento",
+"Selection": "Selecci\u00f3n",
 });
