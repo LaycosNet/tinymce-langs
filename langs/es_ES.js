@@ -370,4 +370,5 @@ tinymce.addI18n('es_ES',{
 "Words": "Palabras",
 "Document": "Documento",
 "Selection": "Selecci\u00f3n",
+"{0} characters": "{0} caracteres",
 });
