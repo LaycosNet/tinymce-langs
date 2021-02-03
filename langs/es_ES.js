@@ -372,4 +372,5 @@ tinymce.addI18n('es_ES',{
 "Selection": "Selecci\u00f3n",
 "{0} characters": "{0} caracteres",
 "Line height": "Interlineado",
+"More...": "Más...",
 });
